@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coach-staging-164022-authRole",
+      "UnauthRoleArn": "arn:aws:iam::420527130634:role/amplify-coach-staging-164022-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::420527130634:role/amplify-coach-staging-164022-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-coach-staging-164022-deployment",
+      "UnauthRoleName": "amplify-coach-staging-164022-unauthRole",
+      "StackName": "amplify-coach-staging-164022",
+      "StackId": "arn:aws:cloudformation:us-east-1:420527130634:stack/amplify-coach-staging-164022/a1aa58f0-166f-11ed-a90e-1276981038b3",
+      "AmplifyAppId": "dle6rtta2y0pd"
+    },
+    "categories": {
+      "auth": {
+        "Coach": {}
+      }
+    }
+  }
+}
